@@ -1,0 +1,88 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#darkDiv {
+  text-align: end;
+  padding: 20px;
+}
+#dark {
+  font-size: 18px;
+  border-radius: 5px;
+  background-color: rgb(95, 83, 196);
+  cursor: pointer;
+}
+
+#cashflow {
+  padding: 20px;
+  color: rgb(95, 83, 196);
+  font-family: "Bebas Neue", sans-serif;
+}
+#Track {
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+#userInput {
+  padding: 8px;
+  border-radius: 5px;
+  border: 2px solid rgb(17, 8, 102);
+}
+
+#formDiv {
+  padding-top: 100px;
+  text-align: center;
+}
+#incomeButton:hover {
+  background-color: rgb(110, 110, 189);
+}
+#expenseButton:hover {
+  background-color: rgb(110, 110, 189);
+}
+#balanceButton:hover {
+  background-color: rgb(110, 110, 189);
+}
+#clearButton:hover {
+  background-color: rgb(110, 110, 189);
+}
+
+#incomeButton {
+  padding: 0.5em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 40px;
+}
+#expenseButton {
+  padding: 0.5em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left: 40px;
+}
+#balanceButton {
+  padding: 0.5em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 18px;
+}
+#clearButton {
+  padding: 0.5em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#text {
+  text-align: center;
+  padding: 100px;
+}
+#quote {
+  text-align: end;
+  padding: 30px;
+}
+#pquote {
+  font-family: "Poppins", sans-serif;
+}
+#hquote {
+  font-family: "Poppins", sans-serif;
+}
