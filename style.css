@@ -53,19 +53,20 @@
   padding: 0.5em;
   cursor: pointer;
   border-radius: 5px;
-  margin-right: 40px;
+  margin-right: 15px;
 }
 #expenseButton {
   padding: 0.5em;
   cursor: pointer;
   border-radius: 5px;
-  margin-left: 40px;
+  margin-left: 15px;
 }
 #balanceButton {
   padding: 0.5em;
   cursor: pointer;
   border-radius: 5px;
   margin-top: 18px;
+  margin: 10px;
 }
 #clearButton {
   padding: 0.5em;
